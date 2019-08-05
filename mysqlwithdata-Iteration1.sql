@@ -1,5 +1,4 @@
-
-fgfhdhdh
+wow. so sAD
 
 CREATE DATABASE  IF NOT EXISTS `happytrip_itr1` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `happytrip_itr1`;

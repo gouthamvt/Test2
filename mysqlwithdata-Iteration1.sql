@@ -1,8 +1,6 @@
 
 fgfhdhdh
 
-what the fuck
-
 CREATE DATABASE  IF NOT EXISTS `happytrip_itr1` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `happytrip_itr1`;
 -- MySQL dump 10.13  Distrib 5.1.40, for Win32 (ia32)
